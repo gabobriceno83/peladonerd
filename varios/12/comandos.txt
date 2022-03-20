@@ -1,4 +1,5 @@
 systemctl disable systemd-resolved.service
 systemctl stop systemd-resolved
-Datos del primer Commit 
+Datos del primer Commit
+Datos del segundo Commit
 
